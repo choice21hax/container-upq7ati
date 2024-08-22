@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "choice21hax",
+  "repo": "container-upq7ati",
+  "name": "choice21hax",
+  "email": "storageusmanau@gmail.com",
+}
